@@ -1,2 +1,2 @@
 # LearnIt
-A special learning game in 1 file. A passion project.
+A special learning game. A passion project.
